@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 
-[![Website](https://img.shields.io/website?label=vedantkokate07.github.io&style=for-the-badge&url=https://vedantkokate07.github.io&color=039be5)](https://vedantkokate07.github.io)
+[![Website](https://img.shields.io/website?label=vedantkokate.tech&style=for-the-badge&url=https://vedantkokate07.github.io&color=039be5)](https://vedantkokate.tech/)
 </div>
 <div align="center">
    <img  src="https://projecteuler.net/profile/vedantk07.png"  width="100" height="40" />

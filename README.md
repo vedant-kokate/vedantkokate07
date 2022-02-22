@@ -14,8 +14,8 @@
 </div>
 <div align="center">
 
-[![Codechef](https://cp-logo.vercel.app/codechef/vedant_k07)](https://www.codechef.com/users/vedant_k07)
-[![Codeforces](https://cp-logo.vercel.app/codeforces/vedant.kokate)](https://codeforces.com/profile/vedant.kokate)
+ [![Codechef](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codechef&label=Codechef&url=https://competitive-coding-api.herokuapp.com/api/codechef/vedant_k07&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)](https://www.codechef.com/users/vedant_k07)
+[![Codeforces](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/vedant.kokate&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)](https://codeforces.com/profile/vedant.kokate)  
 <a href="https://www.hackerrank.com/vedant_kokat07"><img height=20 src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 
 </div>
